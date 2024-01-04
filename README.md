@@ -1,4 +1,4 @@
-
+![logo](https://github.com/jatin1305-ish/jatin1305-ish/blob/main/web-banner-development-software-and-ui-interface-vector-37813005.jpg)
 <h1 align="center">Hi 👋, I'm jatin singh gaur</h1>
 <h3 align="center">A passionate full stack developer and AI/ ML leaner</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
